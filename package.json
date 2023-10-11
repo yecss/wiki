@@ -1,0 +1,17 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.61"
+  },
+  "dependencies": {
+    "vite-plugin-vitepress-auto-sidebar": "^1.5.1"
+  }
+}
