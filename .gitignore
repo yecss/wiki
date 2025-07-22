@@ -1,5 +1,78 @@
-node_modules
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.pnpm-debug.log
+.npm
+.yarn
 
-*dist
+# Build directories
+dist/
+.cache/
+.cache-loader/
+.nuxt/
+.output/
+dist-ssr/
+dist-static/
 
-run.sh
+# VitePress specific
+.temp/
+.cache/
+node_modules/.vite
+node_modules/.vitepress
+
+# Vite
+vite.config.js
+vite.config.mjs
+vite.config.ts
+vite.config.cjs
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.production.local
+.env.staging.local
+.env.test.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Local development
+.vercel
+
+# VitePress build output (commonly in docs/.vitepress/dist or site/dist)
+/docs/.vitepress/dist
+docs/.vitepress/cache
+/.vitepress/dist
+
+# Optional: if you build to a custom directory
+/site/dist
+
+# Thumbnail cache
+Thumbs.db
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Desktop.ini
+$RECYCLE.BIN/
