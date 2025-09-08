@@ -39,7 +39,7 @@ export default defineConfig({
           { text: 'Node.js', link: '/Node.js/1. NVM使用教程.md' },
         ],
       },
-      { text: '嵌入式', link: '/嵌入式/00-学习资源.md' },
+      { text: '嵌入式', link: '/嵌入式/3-1 STM32.md' },
       { text: '软技能', link: '/开发环境/1.VScode配置指南.md' }
     ],
   },
