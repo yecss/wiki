@@ -1,3 +1,7 @@
+## 项目创建教程
+
+https://mp.weixin.qq.com/s/1c9dy8W1jkm4KpsNbPtSow
+
 ## 按键防抖
 
 ```c

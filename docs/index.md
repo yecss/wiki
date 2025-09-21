@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /嵌入式/00-学习资源.md
+      link: /嵌入式/0-1 嵌入式学习路线
     # - theme: alt
     #   text: View on GitHub
     #   link: https://github.com/yecss
